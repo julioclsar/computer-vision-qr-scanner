@@ -1,8 +1,8 @@
 ﻿# Real-Time QR Code Scanner
 
-LÃª QR Codes em webcam, imprime o conteÃºdo e destaca o cÃ³digo detectado.
+Lê QR Codes em webcam, imprime o conteúdo e destaca o código detectado.
 
-Este Ã© um exercÃ­cio de estudo do curso de VisÃ£o Computacional, organizado como projeto independente para facilitar a leitura e a execuÃ§Ã£o.
+Este é um projeto independente criado durante um curso de Visão Computacional.
 
 ## Tecnologias
 
@@ -13,16 +13,12 @@ Este Ã© um exercÃ­cio de estudo do curso de VisÃ£o Computacional, organiza
 
 ~~~powershell
 pip install -r requirements.txt
-python Questao3.py
+python qr_code_scanner.py
 ~~~
 
-> Este exercÃ­cio usa a webcam. Autorize o acesso Ã  cÃ¢mera e pressione **S** para encerrar.
+> Este exercício usa a webcam. Autorize o acesso à câmera e pressione **S** para encerrar.
 
 ## Arquivos
 
-- **Questao3.py**: implementaÃ§Ã£o do exercÃ­cio.
-- Arquivos de imagem/classificador necessÃ¡rios Ã  demonstraÃ§Ã£o.
-
-## Contexto
-
-ExercÃ­cio originalmente localizado em **AtividadeFinal/Questao3.py** na coleÃ§Ã£o do curso.
+- **qr_code_scanner.py**: implementação do projeto.
+- Arquivos de imagem/classificador necessários à demonstração.
